@@ -20,7 +20,7 @@ var Home = React.createClass({
                 <div className="container">
                     <div className="row">
                         <div className="col-md-4">
-                            <h2>Heading</h2>
+                            <h2>Heading 1</h2>
 
                             <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus
                                 commodo, tortor
