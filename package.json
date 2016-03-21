@@ -2,9 +2,9 @@
   "name": "webpack-howto-example",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "js/bundle.js",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --hot --inline",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
